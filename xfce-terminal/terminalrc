@@ -40,6 +40,6 @@ MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 MiscScrollAlternateScreen=TRUE
 TabActivityColor=#262656568080
-ColorPalette=#2d6b2d6b2d6b;#8c8c53535353;#8f8fb2b28f8f;#dfdfafaf8f8f;#6f2f7ad588ec;#a6006d09a600;#7a7ac3c3c3c3;#d8c5d8c5d8c5;#b9ceb9ceb9ce;#bcbc83838383;#9f9fc5c59f9f;#f0f0dfdfafaf;#ac09c9e6eeb9;#dcdc8c8cc3c3;#9393e0e0e3e3;#ffffffffffff
+ColorPalette=#2d6b2d6b2d6b;#c2f145504550;#8f8fb2b28f8f;#dfdfafaf8f8f;#6f2f7ad588ec;#a6006d09a600;#7a7ac3c3c3c3;#d8c5d8c5d8c5;#b9ceb9ceb9ce;#bcbc83838383;#9f9fc5c59f9f;#f0f0dfdfafaf;#ac09c9e6eeb9;#dcdc8c8cc3c3;#9393e0e0e3e3;#ffffffffffff
 ColorBold=#ffff00000000
 
