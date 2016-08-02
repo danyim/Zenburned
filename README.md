@@ -1,6 +1,6 @@
 # Zenburned
 
-This repository is a collection of Zenburn theme files that I've collected and modified over time. Zenburn is my preferred syntax style because of its readability and low contrast.
+This repository is a collection of Zenburn theme files that I've collected and modified over time. It's my preferred color theme due its readability and low contrast, especially when paired with [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html).
 
 ## Contents
 - **Native OSX Terminal** (`.terminal`) - Located in `./terminal-osx`
