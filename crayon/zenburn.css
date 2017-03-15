@@ -1,0 +1,185 @@
+/*
+Name: Zenburn
+Description: Low contrast classic
+Version: 1.0
+Author: Daniel Yim
+URL: http://github.com/danyim/Zenburned/
+*/
+.crayon-theme-zenburn {
+  text-shadow: none !important;
+  color: #fff;
+  background: #3d3d3d !important;
+  border-style: solid !important;
+  border-width: 1px !important;
+  border-color: #333 !important;
+}
+.crayon-theme-zenburn .crayon-code {
+  background: #2d2d2d !important;
+}
+.crayon-theme-zenburn-inline {
+  background: #3d3d3d !important;
+  border-style: solid !important;
+  border-width: 1px !important;
+  border-color: #333 !important;
+}
+.crayon-theme-zenburn span {
+  color: #999 !important;
+}
+.crayon-theme-zenburn .crayon-table .crayon-nums {
+  color: #333 !important;
+  background: #e0e0e0 !important;
+  border-right-style: solid !important;
+  border-right-width: 1px !important;
+  border-right-color: #333 !important;
+}
+.crayon-theme-zenburn .crayon-striped-line {
+  background: #343434 !important;
+  border-width: 1px !important;
+  border-color: #171717 !important;
+}
+.crayon-theme-zenburn .crayon-striped-num {
+  background: #aaa !important;
+  color: #555 !important;
+  border-width: 1px !important;
+  border-color: #CCC !important;
+}
+.crayon-theme-zenburn .crayon-marked-line {
+  background: #484844 !important;
+  border-width: 1px !important;
+  border-color: #222 !important;
+}
+.crayon-theme-zenburn .crayon-marked-num {
+  color: #555 !important;
+  background: #bbb !important;
+  border-width: 1px !important;
+  border-color: #777 !important;
+}
+.crayon-theme-zenburn .crayon-marked-line.crayon-striped-line {
+  background: #51514d !important;
+}
+.crayon-theme-zenburn .crayon-marked-num.crayon-striped-num {
+  background: #ccc !important;
+  color: #888 !important;
+}
+.crayon-theme-zenburn .crayon-marked-line.crayon-top {
+  border-top-style: solid !important;
+}
+.crayon-theme-zenburn .crayon-marked-num.crayon-top {
+  border-top-style: solid !important;
+}
+.crayon-theme-zenburn .crayon-marked-line.crayon-bottom {
+  border-bottom-style: solid !important;
+}
+.crayon-theme-zenburn .crayon-marked-num.crayon-bottom {
+  border-bottom-style: solid !important;
+}
+.crayon-theme-zenburn .crayon-info {
+  background: #faf9d7 !important;
+  color: #7e7d34 !important;
+  border-bottom-style: solid !important;
+  border-bottom-width: 1px !important;
+  border-bottom-color: #b1af5e !important;
+}
+.crayon-theme-zenburn .crayon-toolbar {
+  background: #b2b2b2 !important;
+  border-bottom-style: solid !important;
+  border-bottom-width: 1px !important;
+  border-bottom-color: #666 !important;
+}
+.crayon-theme-zenburn .crayon-toolbar > div {
+  float: left !important;
+}
+.crayon-theme-zenburn .crayon-toolbar .crayon-tools {
+  float: right !important;
+}
+.crayon-theme-zenburn .crayon-title {
+  color: #333 !important;
+}
+.crayon-theme-zenburn .crayon-language {
+  color: #666 !important;
+}
+.crayon-theme-zenburn .crayon-toolbar .crayon-mixed-highlight {
+  background-position: -24px center;
+}
+.crayon-theme-zenburn .crayon-button {
+  background-color: transparent !important;
+}
+.crayon-theme-zenburn .crayon-button:hover {
+  background-color: #ccc !important;
+  color: #666;
+}
+.crayon-theme-zenburn .crayon-button.crayon-pressed:hover {
+  background-color: #ccc !important;
+  color: #666;
+}
+.crayon-theme-zenburn .crayon-button.crayon-pressed {
+  background-color: #999 !important;
+  color: #ccc;
+}
+.crayon-theme-zenburn .crayon-button.crayon-pressed:active {
+  background-color: #999 !important;
+  color: #ccc;
+}
+.crayon-theme-zenburn .crayon-button:active {
+  background-color: #999 !important;
+  color: #ccc;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-c {
+  color: #91ad91 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-p {
+  color: #a19ba2 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-s {
+  color: #d7a5a4 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-k {
+  color: #eff0a5 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-st {
+  color: #eff0a5 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-r {
+  color: #e8d7b9 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-t {
+  color: #eff0a5 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-m {
+  color: #eff0a5 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-ta {
+  color: #AAA !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-i {
+  color: #eff0a5 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-v {
+  color: #e8d7b9 !important;
+  font-weight: bold !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-e {
+  color: #d0d0cc !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-cn {
+  color: #6996bf !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-o {
+  color: #c2be23 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-h {
+  color: #82adc9 !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-sy {
+  color: #4d828d !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-n {
+  color: #726e73 !important;
+  font-style: italic !important;
+}
+.crayon-theme-zenburn .crayon-pre .crayon-f {
+  color: #595959 !important;
+}
+.crayon-theme-zenburn .crayon-pre {
+  color: #ffffff !important;
+}

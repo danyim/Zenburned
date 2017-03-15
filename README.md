@@ -7,6 +7,7 @@ A collection of Zenburn theme files that I've collected and modified over time. 
 - **ITerm2** (`.itermcolors`) - Located in `./iterm2`
 - **XFCE Terminal** (`terminalrc`) - Located in `./xfce-terminal`
 - **Hyperterm** (`.hyperterm.js`) - Located in the root directory
+- [**Crayon Syntax Highlighter for WordPress**](https://wordpress.org/plugins/crayon-syntax-highlighter/) (`.css`) - Located in `./crayon`
 
 ### General Color Palette
 ```javascript
