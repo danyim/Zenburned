@@ -131,7 +131,7 @@ URL: http://github.com/danyim/Zenburned/
   color: #a19ba2 !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-s {
-  color: #d7a5a4 !important;
+  color: #ce8483 !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-k {
   color: #eff0a5 !important;
@@ -140,19 +140,21 @@ URL: http://github.com/danyim/Zenburned/
   color: #eff0a5 !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-r {
-  color: #e8d7b9 !important;
+  color: #eff0a5 !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-t {
   color: #eff0a5 !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-m {
-  color: #eff0a5 !important;
+  color: #e8d7b9 !important;
+  font-weight: bold !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-ta {
   color: #AAA !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-i {
   color: #eff0a5 !important;
+  text-decoration: underline !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-v {
   color: #e8d7b9 !important;
@@ -162,7 +164,7 @@ URL: http://github.com/danyim/Zenburned/
   color: #d0d0cc !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-cn {
-  color: #6996bf !important;
+  color: #c6eaff !important;
 }
 .crayon-theme-zenburn .crayon-pre .crayon-o {
   color: #c2be23 !important;
